@@ -7,7 +7,6 @@ Once the design is complete, you can integrate the necessary logic to calculate 
 
 After calculating the BMI, the app would then display the result to the user in an easy-to-understand format, such as a color-coded indicator or a descriptive text. The user can then use this information to determine whether they are in a healthy weight range or if they need to make some lifestyle changes to improve their overall health.
 
-
 Overall, building a BMI calculator using Flutter can be a rewarding project that helps people take charge of their health and well-being.
 
 
