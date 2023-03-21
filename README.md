@@ -10,5 +10,5 @@ After calculating the BMI, the app would then display the result to the user in 
 
 Overall, building a BMI calculator using Flutter can be a rewarding project that helps people take charge of their health and well-being.
 
-![Uploading WhatsApp Image 2023-03-21 at 19.53.36.jpeg…]()
+
 
